@@ -1,7 +1,5 @@
 # #Football player pick game (v1.0)
 
-============================================================================
-Technologies:
 FE:Reactjs,Redux,Redux-saga,Ant Design
 BE:SocketIO,Express,www.api-football.com(Free API)
 ============================================================================
