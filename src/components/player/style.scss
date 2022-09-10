@@ -1,0 +1,14 @@
+.player-column {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  .row-custom {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    .col-custom {
+      margin: 20px;
+    }
+  }
+}

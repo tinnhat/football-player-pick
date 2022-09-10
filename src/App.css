@@ -1,0 +1,62 @@
+.app {
+  padding: 80px 0;
+}
+.wrapper {
+  width: 100%;
+  margin: 0 auto;
+}
+.container {
+  max-width: 85%;
+  margin: 0 auto;
+}
+.bkg {
+  background-color: #59ce8f;
+  /* height: 100%; */
+}
+.bkg-stadium {
+  width: 100%;
+  background: url(./assets/img/stadium.jpg);
+  height: 100vh;
+  background-repeat: round;
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+}
+
+.user-info {
+  position: absolute;
+  right: 0;
+  top: 0;
+  color: #fff;
+}
+.center-loading {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bkg-login {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: url("./assets/img/bkg-login.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.name-game {
+  color: #fff;
+  font-weight: 400;
+  position: absolute;
+  top: 20%;
+  font-size: 40px;
+}
+.login-page {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url("../src/assets/img/bkg-login.png") no-repeat;
+}
