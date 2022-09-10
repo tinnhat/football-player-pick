@@ -1,7 +1,7 @@
 # #Football player pick game (v1.0)
 
 FE:Reactjs,Redux,Redux-saga,Ant Design
-BE:SocketIO,Express,www.api-football.com(Free API)
+BE:SocketIO,Express,api-football (Free API)
 ============================================================================
 This is a pet project about football player pick game with chat real-time and free API-football
 
